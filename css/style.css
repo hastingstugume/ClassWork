@@ -1,0 +1,23 @@
+a{
+    float: right;
+}
+div.appBar{
+    background-color: aliceblue;
+    height: 40px;
+}
+div a {
+    display: inline;
+    padding: 8px;
+    text-decoration: none;
+}
+div.appBar input{
+    margin: 9px;
+    padding: 5px;
+}
+img#myimage {
+    height: 150pt;
+    width: 150pt;
+}
+div.item {
+    background-color: rgb(249, 245, 245);
+}
